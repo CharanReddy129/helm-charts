@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  flask-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-03T12:06:43.582414565+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f58c1f85aee8e7787e1fbae22ab916536e0f4ee575343664537fe1ef91351d87
+    name: flask-app
+    type: application
+    urls:
+    - flask-app-0.1.0.tgz
+    version: 0.1.0
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-03T12:06:43.582624021+05:30"
+    description: A Helm chart for Kubernetes
+    digest: cb74bfca01a53a364e1b9eb3503d533e09dd31a955ff4f72f1d66bbe5477d1c2
+    name: webapp
+    type: application
+    urls:
+    - webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-03T12:06:43.581624317+05:30"
